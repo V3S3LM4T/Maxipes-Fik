@@ -39,3 +39,4 @@ Stiskni tlačítko Vypustit Fíka!
 Pokud nástroj najde rozbité objekty, vybere je. Následně stiskni Ctrl + A a zvol Scale. Tím Blenderu řekneš, že nová velikost je výchozí stav, a normály se srovnají.
 
 Můžeš Fíka vypustit znovu pro kontrolu, že je vše čisté.
+<img width="597" height="418" alt="maxipes_fik" src="https://github.com/user-attachments/assets/e3a65b78-5bc2-4ae1-a894-e6165de08771" />
