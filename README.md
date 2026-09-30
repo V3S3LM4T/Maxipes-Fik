@@ -14,9 +14,9 @@ Vlastní UI v N-Panelu: Přidává dedikovanou záložku s přehledným rozhran�
 
 Vizuální zpětná vazba:
 
-🔴 Chyba: Pokud najde rozbitý objekt, zobrazí varování, návod k opravě a příslušnou ikonu Fíka.
+Chyba: Pokud najde rozbitý objekt, zobrazí varování, návod k opravě a příslušnou ikonu Fíka.
 
-🟢 Čistý stav: Pokud je scéna připravená na export, Fík tě odmění spokojeným vizuálem.
+Čistý stav: Pokud je scéna připravená na export, Fík tě odmění spokojeným vizuálem.
 
 Instalace
 Stáhni si tento repozitář jako .zip soubor (obsahuje __init__.py a zdrojové obrázky).
