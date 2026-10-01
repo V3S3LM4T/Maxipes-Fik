@@ -78,7 +78,7 @@ def register():
     
     cesta_k_slozce = os.path.dirname(__file__)
     cesta_k_obrazku_chyba = os.path.join(cesta_k_slozce, "maxipes_fik.png")
-    # Zde je tvůj placeholder pro druhý obrázek:
+    
     cesta_k_obrazku_cisto = os.path.join(cesta_k_slozce, "stastny_fik.png") 
     
     if os.path.exists(cesta_k_obrazku_chyba):
