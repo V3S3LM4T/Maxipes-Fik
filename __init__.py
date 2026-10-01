@@ -43,7 +43,7 @@ class VIEW3D_PT_muj_detektiv(bpy.types.Panel):
     bl_space_type = 'VIEW_3D'
     bl_region_type = 'UI'
     bl_category = "Inspektor Fík"
-    bl_label = "Kriminálka Unreal"
+    bl_label = "Maxipes Fik"
 
     def draw(self, context):
         layout = self.layout
